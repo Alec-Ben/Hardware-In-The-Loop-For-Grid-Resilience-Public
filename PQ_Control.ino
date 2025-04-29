@@ -1,6 +1,8 @@
 // PQ Control Logic for Inverter without PLL
 // PLL handeled in Simulink Inverter Model
 // Adapted from Simulink Model
+// DISCLAIMER: This code is not perfeclty matching the Simulink Model it is structured from. The code needs to be adapted and verified.
+
 // Authors: Alec Benedict, Kendall Meienhofer, Janessa Green, Emily Ninestein
 
 // ------------------------- PIN Definitions -------------------------
