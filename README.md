@@ -31,7 +31,8 @@ A walkthrough of each RT-Lab project included in the repository, explaining:
 - How to run and modify the simulations
 
 ### Projects Folder  
-*** the `.raw` and `.dyr` files are not included in the public repo. They can be found in the PSS/E examples or on the ATL PC ***
+*** The `.raw` and `.dyr` files are not included in the public repo. They can be found in the PSS/E examples or on the ATL PC ***
+
 Contains subfolders for each individual RT-Lab project. Each folder includes all necessary files to replicate the team’s simulation setup, including:
 
 - `.m` — MATLAB script to initialize model parameters  
