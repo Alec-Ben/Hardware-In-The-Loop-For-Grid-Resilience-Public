@@ -11,7 +11,7 @@ By the end of the project, the team successfully:
 - Configured OPAL-RT’s real-time simulation environment with ePHASORSIM.
 - Developed and tested multiple RT-Lab projects incorporating PSS/E grid models.
 - Programmed and connected a real Arduino-based inverter controller using custom PQ control code.
-- Achieved full hardware-in-the-loop integration with real-time signal exchange between the OPAL-RT system and the Arduino.
+- Achieved full HIL integration with real-time signal exchange between the OPAL-RT system and the Arduino.
 
 ## Repository Structure
 
@@ -19,10 +19,10 @@ This repository serves as the technical documentation and codebase for the proje
 
 ### OPAL-RT User Manual  
 A comprehensive guide to using the OPAL-RT hardware and software platform, including:
-- Hardware setup and wiring
-- Creating and managing RT-Lab projects
-- Integrating PSS®E grid data using ePHASORSIM
-- Running CHIL simulations and collecting results
+- Hardware setup
+- Creating and developing RT-Lab projects
+- Integrating PSS/E grid data using ePHASORSIM
+- Running HIL simulations and collecting results
 
 ### RT-Lab Project Overview  
 A walkthrough of each RT-Lab project included in the repository, explaining:
