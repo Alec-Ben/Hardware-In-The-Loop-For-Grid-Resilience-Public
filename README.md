@@ -3,7 +3,7 @@
 
 Welcome to the official GitHub repository for the UVM SEED Team 5 project: *Hardware-in-the-Loop for Grid Resilience*. This project was a collaboration between the [CREATE Research Lab](https://www.uvm.edu/create) at the University of Vermont and the Vermont Electric Power Company (VELCO), carried out as part of the 2024–2025 Senior Experience in Engineering Design (SEED) program.
 
-## 🛠️ Project Overview
+## Project Overview
 
 The goal of this project was to explore how hardware-in-the-loop (HIL) simulations can be used to support grid resilience by testing inverter controller behavior in real-time grid scenarios. Specifically, the team integrated a simulated power system case from PSS®E (via OPAL-RT’s ePHASORSIM) with a physical Arduino Mega microcontroller running active and reactive power (PQ) control logic. The simulation allowed for testing controller performance under dynamic grid conditions in a safe and repeatable environment.
 
