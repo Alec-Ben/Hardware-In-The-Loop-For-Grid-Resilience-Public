@@ -1,7 +1,7 @@
 # Hardware-in-the-Loop for Grid Resilience  
 **UVM SEED Team 5 Technical Documentation (2024–2025)**
 
-Welcome to the official GitHub repository for the UVM SEED Team 5 project: *Hardware-in-the-Loop for Grid Resilience*. This project was a collaboration between the [CREATE Research Lab](https://www.uvm.edu/create) at the University of Vermont and the Vermont Electric Power Company (VELCO), carried out as part of the 2024–2025 Senior Experience in Engineering Design (SEED) program.
+Welcome to the official GitHub repository for the UVM SEED Team 5 project: *Hardware-in-the-Loop for Grid Resilience*. This project was a collaboration between the [CREATE Research Lab](https://www.uvm.edu/cems/create) at the University of Vermont and the Vermont Electric Power Company (VELCO), carried out as part of the 2024–2025 Senior Experience in Engineering Design (SEED) program.
 
 ## Project Overview
 
