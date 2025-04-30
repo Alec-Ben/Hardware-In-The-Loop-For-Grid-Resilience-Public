@@ -36,8 +36,8 @@ Contains subfolders for each individual RT-Lab project. Each folder includes all
 - `.m` — MATLAB script to initialize model parameters  
 - `.slx` — Simulink system model for RT-Lab  
 - `.mdl` — Legacy Simulink file required for RT-Lab compatibility  
-- `.raw`* — Static grid data in PSS®E format  
-- `.dyr`* — Dynamic data (e.g., generator parameters) in PSS®E format  
+- `.raw`* — Static grid data in PSS/E format  
+- `.dyr`* — Dynamic data (e.g., generator parameters) in PSS/E format  
 - `.xlsx`* — Spreadsheet for defining I/O points in ePHASORSIM  
 - `.ino`* — Arduino code implementing PQ control logic
 
